@@ -1,5 +1,5 @@
 
-let total = localStorage.getItem("totalCompra");
+let total = localStorage.getItem("cartTotal");
 
 
 if (total) {
